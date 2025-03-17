@@ -22,10 +22,10 @@ You can click the Preview link to take a look at your changes.
     <img alt="FRANCE-MD" width="700" height="300" src="https://files.catbox.moe/tvo4g6.jpg">
 <p align="center">
 <p align="center">
-<a href="https://github.com/franceking1/France-Md"><img title="Author" src="https://img.shields.io/badge/FRANCE_MD-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/franceking1/France-Md"><img title="Author" src="https:///storage/emulated/0/Pictures/file-5ZqGWoCZAjsw7TH8k28raU.webpimg.shields.io/badge/FRANCE_MD-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/franceking1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
+<a href="https://github.com/franceking1?tab=followers"><img title="Followers" src="https://img./storage/emulated/0/Pictures/file-5ZqGWoCZAjsw7TH8k28raU.webplabel=Followers&style=social"></a>
 <a href="https://github.com/franceking1/france-Md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/franceking1/france-Md?&style=social"></a>
 <a href="https://github.com/franceking1/France-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/franceking1/France-Md?style=social"></a>
 <a href="https://github.com/franceking1/France-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/franceking1/France-Md?label=Watching&style=social"></a>
