@@ -1,6 +1,6 @@
   🙏 FRANCE_MD1 🌟 
 
-[![FRANCE_MD1 Logo](https://chatgpt.com/share/67d81af6-e268-800f-9480-db51311ac9d4)](https://chatgpt.com/share/67d81af6-e268-800f-9480-db51311ac9d4)
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=𝑻𝑯𝑰𝑺+𝐈𝐒+FRANCE_MD1+𝑴𝑨𝑫𝑬+𝑩𝒀+FRANCE TZ+🇹🇿" alt="Typing SVG" /></a>
 
