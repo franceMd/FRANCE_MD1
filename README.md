@@ -1,11 +1,35 @@
-   <p  align="center">
-   <h align="center"style="font-family:'EB Garamond'; front-size:rage3:">FRSNCE_MD1</h>
-   </p>
-   <P align="center">
-   <imag src=~file-TxiwGxkTsBd5DWAZeBotoW (1).webp==font=EB+garamond& weight=900&size=30& duration=4000&pause=1000&width=435&line=My+name+is+FRANCE_MD1; created+by+FRANCE;fork+me and enjoy!"alt="Typing svg"/>
-   </imag>
-           <h2 align="center">🛠️ Steps to Get Started</h2>
+  🙏 FRANCE_MD1 🌟 
 
-<h3 align="left">1️⃣ Fork the Repo</h3>
-<p align="left">
-   <a href="HTTPS://
+[![FRANCE_MD1 Logo](https://chatgpt.com/share/67d81af6-e268-800f-9480-db51311ac9d4)](https://chatgpt.com/share/67d81af6-e268-800f-9480-db51311ac9d4)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=𝑻𝑯𝑰𝑺+𝐈𝐒+FRANCE_MD1+𝑴𝑨𝑫𝑬+𝑩𝒀+FRANCE TZ+🇹🇿" alt="Typing SVG" /></a>
+
+  🌟 Features 
+
+- Advanced bot functionalities for WhatsApp.  
+- Easy to use with session ID integration.  
+- Deployable on platforms like Heroku.  
+- Regular updates and support via WhatsApp and YouTube.
+
+---
+
+👉 🔗 Follow This steps
+
+1.👇 Star and Fork This Repo  
+[![Star and Fork This Repo](https://img.shields.io/static/v1?label=Star%20%26%20Fork%20This%20Repo&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/kinghanstz/HANS-MD-V1/fork)  
+
+<br>
+
+2.👇 Get Session ID Here  
+[![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://hans-md-session-id-sowl.onrender.com/)  
+
+<br>
+
+3.👇 Create Account on Heroku  
+[![Create Account on Heroku](https://img.shields.io/static/v1?label=Create%20Account&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)  
+
+<br>
+
+4.👇 Deploy to Heroku If your have account
+[![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/Mrhannstz/HANS-MD)  
+
