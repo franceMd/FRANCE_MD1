@@ -17,29 +17,53 @@
 **JINSI YA KUSAMBAZA**
 
 1. 👇 Star na Fork Hili Repo  
-   [![Star na Fork Hili Repo](https://img.shields.io/static/v1?label=Star%20%26%20Fork%20Hili%20Repo&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibra-pixel/Ibupixel-/fork)  
    <br>
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rockstar-ExtraBold&color=blue&lines=🄵🄾🅁🄺+🄽🄰+🅂🅃🄰🅁+🄷🄸🄻🄸+🅁🄴🄿🄾👆)](https://git.io/typing-svg)
+   <!-- Add 4 images here that change every few seconds -->
+   <p align="center">
+     <img class="change-img" src="https://example.com/picture1.jpg" alt="Mr killer FRANCE MD - 1" width="200px" height="200px">
+     <img class="change-img" src="https://example.com/picture2.jpg" alt="Mr killer FRANCE MD - 2" width="200px" height="200px">
+     <img class="change-img" src="https://example.com/picture3.jpg" alt="Mr killer FRANCE MD - 3" width="200px" height="200px">
+     <img class="change-img" src="https://example.com/picture4.jpg" alt="Mr killer FRANCE MD - 4" width="200px" height="200px">
+   </p>
 
-2. (A)👇 Pata Session ID Hapa kwa bot ya kawaida
-   [![Pata Session ID Hapa](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://mr-killer-france-md-pair-code.onrender.com) 
+   <style>
+     /* CSS to change images every few seconds */
+     .change-img {
+       animation: changeImages 12s infinite;
+     }
 
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rockstar-Extra-Bold&color=blue&lines=🅂🄴🅂🅂🄸🄾🄽+🄸🄳+🅂🄸🅃🄴+🄸🅂+🄷🄴🅁🄴1👆)](https://git.io/typing-svg)
-   
-   [![Pata Session ID Hapa](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://mr-killer-france-md-pair-code.onrender.com/pair)
-   
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rockstar-Extra-Bold&color=blue&lines=🅂🄴🅂🅂🄸🄾🄽+🄸🄳+🅂🄸🅃🄴🄴+🄸🅂+🄷🄴🅁🄴2👆)](https://git.io/typing-svg)
+     @keyframes changeImages {
+       0%, 25% {
+         opacity: 1;
+       }
+       50%, 75% {
+         opacity: 0;
+       }
+     }
+
+     .change-img:nth-child(1) {
+       animation-delay: 0s;
+     }
+     .change-img:nth-child(2) {
+       animation-delay: 3s;
+     }
+     .change-img:nth-child(3) {
+       animation-delay: 6s;
+     }
+     .change-img:nth-child(4) {
+       animation-delay: 9s;
+     }
+   </style>
+   <br>
+
+2. (A)👇 Pata Session ID Hapa kwa bot ya kawaida  
    <br>
 
 3. 👇 Tengeneza Akaunti kwenye Heroku  
-   [![Tengeneza Akaunti kwenye Heroku](https://img.shields.io/static/v1?label=Tengeneza%20Akaunti&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)  
-
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rockstar-Extra-Bold&color=blue&lines=🄲🅁🄴🄰🅃🄴+🄰🄲🄲🄾🅄🄽🅃+🄺🅆🄴🄽🅈🄴+🄷🄴🅁🄾🄺🅄👆)](https://git.io/typing-svg)
    <br>
 
-4. 👇 Sambaza kwenye Heroku Ikiwa una akaunti
-   [![Sambaza kwenye Heroku](https://img.shields.io/static/v1?label=Sambaza%20kwenye&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/ibra-pixel/Ibupixel-/tree/main)  
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rockstar-Extra-Bold&color=blue&lines=🄳🄴🄿🄻🄾🅈+🄺🅆🄴🄽🅈🄴+🄷🄴🅁🄾🄺🅄👆)](https://git.io/typing-svg)
+4. 👇 Sambaza kwenye Heroku Ikiwa una akaunti  
+   <br>
 
 **MMILIKI**
 
@@ -49,8 +73,10 @@
   </a>
 </p>
 
-**𝗖𝗵𝗮𝗻𝗻𝗲𝗹**
+𝗖𝗵𝗮𝗻𝗻𝗲𝗹
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z">
-    <img align="left" alt="Mr killer FRANCE MD | WhatsApp" width="86px" src="https://raw.githubusercontent.com/Pika5
+    <img align="left" alt="Mr killer FRANCE MD | WhatsApp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+  </a>
+</p>
