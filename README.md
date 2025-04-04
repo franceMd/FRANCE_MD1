@@ -13,14 +13,6 @@
   </a>
 </p>
 
-<!-- Slideshow of Images -->
-<div class="slideshow-container">
-    <img class="slides" src="https://tse2.mm.bing.net/th?id=OIP.bgLAnTj7pQrz2547qbwyqAHaHa&pid=Api" alt="Picha 1">
-    <img class="slides" src="https://tse1.mm.bing.net/th?id=OIP.BUcz4f3MyHyexLiROyo-eAHaHa&pid=Api" alt="Picha 2">
-    <img class="slides" src="https://tse1.mm.bing.net/th?id=OIP.hqxX5j6WBox2HSH5428Z8QHaEK&pid=Api" alt="Picha 3">
-</div>
-
-<script>
     let index = 0;
     function showSlides() {
         let slides = document.getElementsByClassName("slides");
