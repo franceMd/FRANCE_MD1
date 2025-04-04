@@ -2,7 +2,7 @@
 <html lang="sw">
 <head>
     
-    </style>
+   
 </head>
 <body>
 
